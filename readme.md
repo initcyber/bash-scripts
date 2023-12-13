@@ -3,7 +3,7 @@ Requirements : nmap
 How to use this script
 
 Clone this repository
-" git clone https://github.com/justinjohnson86/ipsweep.git "
+" git clone https://github.com/initcyber/ipsweep.git "
 
 Make Shell Scripts Executable
 " chmod +x ipsweep.sh "
